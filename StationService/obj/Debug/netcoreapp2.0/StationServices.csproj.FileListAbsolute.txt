@@ -1,0 +1,13 @@
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/bin/Debug/netcoreapp2.0/StationServices.deps.json
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/bin/Debug/netcoreapp2.0/StationServices.runtimeconfig.json
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/bin/Debug/netcoreapp2.0/StationServices.runtimeconfig.dev.json
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/bin/Debug/netcoreapp2.0/StationServices.dll
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/bin/Debug/netcoreapp2.0/StationServices.pdb
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/bin/Debug/netcoreapp2.0/Storiveo.IsisPie.dll
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/bin/Debug/netcoreapp2.0/Storiveo.IsisPie.pdb
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/obj/Debug/netcoreapp2.0/StationServices.csprojResolveAssemblyReference.cache
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/obj/Debug/netcoreapp2.0/StationServices.csproj.CoreCompileInputs.cache
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/obj/Debug/netcoreapp2.0/StationServices.AssemblyInfoInputs.cache
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/obj/Debug/netcoreapp2.0/StationServices.AssemblyInfo.cs
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/obj/Debug/netcoreapp2.0/StationServices.dll
+/Users/mohdaizudinjamalan/Documents/Repos/StationServices/StationServices/obj/Debug/netcoreapp2.0/StationServices.pdb
